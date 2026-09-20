@@ -8,7 +8,7 @@
 
 <br/>
 
-> **I like building systems that are not only intelligent — but secure, scalable and useful.**
+> **I like building systems that are not only intelligent but secure, scalable and useful.**
 
 </div>
 
