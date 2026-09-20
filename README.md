@@ -125,26 +125,6 @@ A real-time **Air Quality Monitoring System** built around streaming and scalabl
 
 ---
 
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omikasinghOS&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omikasinghOS&layout=compact&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omikasinghOS&hide_border=true" />
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 ```python
